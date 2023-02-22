@@ -18,6 +18,11 @@ The program creates a circle, then changes angle by 2 degrees and creates a new 
 ```python
 This one is similar to the spirograph but I added some extra lines/triangles in the design. Every six circles it creates a big line. Then it changes angles to create a triangle
 ```
+## random walk
+```python
+In this, I made the turtle choose a random direction to face (north south east west) and then had it choose a random color and walk that way. It repeated 300 times, creating a random walk
+
+```
 ## Main
 ```python
 This was the main project for the Hirst_Painting_Project
